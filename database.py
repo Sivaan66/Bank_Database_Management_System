@@ -2,7 +2,7 @@ import mysql.connector as msq
 mydb = msq.connect(
     host = "localhost",
     user = "root",
-    passwd = "Sivaan@3132001",
+    passwd = "Sivaan@31320",
     database = "bank_database"
 )
 
