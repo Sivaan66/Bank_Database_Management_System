@@ -152,6 +152,7 @@ This project includes taking bank realted data like customer's username, passwor
 - Asks Useif He/She wants to delete their account.
 - If **'yes'** then removed all of their data from database including their transaction history.
 - If **'No'** then continue with the facilities.
+  
   ``` py
   def dlt_acc(self) :
         input_user = input("Do you really want to DELETE your account?\n"
